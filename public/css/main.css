@@ -1,0 +1,16 @@
+img {
+	height: 200px;
+	width: 100%;
+	display: block;
+}
+
+.thumb-label {
+	margin-top: 0.7em;
+	font-size: 1.2em;
+}
+
+#thumbnails-container {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 45px;
+}

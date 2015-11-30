@@ -1,0 +1,19 @@
+{
+  "name": "node-promise",
+  "version": "1.0.0",
+  "description": "Example of using Promise in Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Chasinga",
+  "repository": "https://github.com/jochasinga/node-promise.git",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mustache": "^2.2.0",
+    "path": "^0.12.7",
+    "request": "^2.67.0",
+    "requirejs": "^2.1.22"
+  }
+}

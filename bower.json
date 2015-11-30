@@ -1,0 +1,25 @@
+{
+  "name": "node-promise",
+  "description": "Simple example of asynchronousity with Promise",
+  "main": "app.js",
+  "authors": [
+    "Panisuan Chasinga <jo.chasinga@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "holderjs": "~2.9.0",
+    "requirejs": "~2.1.22",
+    "mustache.js": "mustache#~2.2.0",
+    "bootstrap": "~3.3.6"
+  }
+}
